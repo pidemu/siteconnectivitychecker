@@ -1,0 +1,5 @@
+
+12-16-2024 01:47PM: https://www.google.com - Status: 200, Response Time: 0.196555s
+12-16-2024 01:48PM: https://www.google.com - Status: 200, Response Time: 0.205689s
+12-16-2024 01:48PM: https://httpbin.org/status/500 - Status: 500, Response Time: N/As
+12-16-2024 01:48PM: https://httpbin.org/status/404 - Status: 404, Response Time: N/As
