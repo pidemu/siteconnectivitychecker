@@ -30,11 +30,11 @@ Install the `requests` library using pip:
 pip install requests
 ```
 
-# Code Organization 
+## Code Organization 
 - **site_checker_main.py** (Main script that runs the program and handles user interactions.)
 - **function.py** (Contains all the core functions used for the project)
 - **site_connectivity_log.txt** (A log file that stores the history of connectivity checks)
 
-# Site Connectivity Checker Sample:
+## Site Connectivity Checker Sample:
 ![unnamed](https://github.com/user-attachments/assets/652afd57-3b69-4d88-b490-c86665ad04dc)
 
