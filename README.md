@@ -1,6 +1,6 @@
 # Site Connectivity Checker
 
-The **Site Connectivity Checker** my **CIS 3260 Project** is a Python program designed to check the availability of websites by sending HTTP requests. It provides real-time status, response time, and logs the results for later reference. Alerts are also shown if a site is unreachable or experiencing issues.
+The **Site Connectivity Checker** for my **CIS 3260 (Introduction to Programming) Project** is a Python program designed to check the availability of websites by sending HTTP requests. It provides real-time status, response time, and logs the results for later reference. Alerts are also shown if a site is unreachable or experiencing issues.
 
 ## Built With
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
